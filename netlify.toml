@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://github.com/restyled-io"
+  status = 301
+  force = true
